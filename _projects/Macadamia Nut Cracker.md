@@ -17,11 +17,11 @@ using a simple lever nut cracker. Design a nut cracker with appropriate dimensio
 Inputs: size of macadamia nut, average grip strength, load required to crack macadamia nut.
 
 ## Approach
-I first researched appropriate values. Taking measuraments from a UN fact sheet [Link](https://unece.org/sites/default/files/2025-12/DDP-22-InshellMacadamiaNuts_2025_E.pdf?__cf_chl_rt_tk=SiU2UmhHNwCT5YtbHlciEvC9Hc75zbM53kLXhPOjmRE-1772070993-1.0.1.1-m._g70WAcMCroFbHwOxTeq6XL0f8O1N1DunjdElJFLQ), I found the diameter for macadamia nuts most commonly ranged from 16-28mm. As larger nuts were harder to crack, I chose a diameter slightly higher than the average to work with, 22mm, to enable the nutcracker to better account for all sizes.
+I first researched appropriate values. Taking measuraments from a UN fact sheet [(Link)](https://unece.org/sites/default/files/2025-12/DDP-22-InshellMacadamiaNuts_2025_E.pdf?__cf_chl_rt_tk=SiU2UmhHNwCT5YtbHlciEvC9Hc75zbM53kLXhPOjmRE-1772070993-1.0.1.1-m._g70WAcMCroFbHwOxTeq6XL0f8O1N1DunjdElJFLQ), I found the diameter for macadamia nuts most commonly ranged from 16-28mm. As larger nuts were harder to crack, I chose a diameter slightly higher than the average to work with, 22mm, to enable the nutcracker to better account for all sizes.
 
-Then, I found grip strength values from the website topendsports.com [Link](https://www.topendsports.com/testing/norms/handgrip.html). As macadamia nuts are consumed mostly by a younger demographic, Gen Z and Gen X, I took the average grip strength of that age range, 35kg/77.16lb, assuming that most people could reach that value.
+Then, I found grip strength values from the website topendsports.com [(Link)](https://www.topendsports.com/testing/norms/handgrip.html). As macadamia nuts are consumed mostly by a younger demographic, Gen Z and Gen X, I took the average grip strength of that age range, 35kg/77.16lb, assuming that most people could reach that value.
 
-Finally, I obtained the average load to crack macadamia nuts from a paper by Schrauf et al [Link](https://doi.org/10.1007/s10071-007-0131-2), 22kg/489.43lb.
+Finally, I obtained the average load to crack macadamia nuts from a paper by Schrauf et al [(Link)](https://doi.org/10.1007/s10071-007-0131-2), 22kg/489.43lb.
 
 To calculate necessary dimensions of the nutcracker, it needed to fit the nut while still providing a long enough lever arm to crack it, according to the diagram below.
 
