@@ -3,11 +3,12 @@ layout: project
 title: Macadamia Nut Cracker
 description: ENGRD 2020 Statics Project
 technologies: n/a
+image: assets/images/macadamia-nuts.png
 ---
 # Macadamia Nut Cracker Project - ENGRD 2020 Statics
 **Skills used: Equilibrium, Solving Mechanisms, Ergonomics and functional requirements, Research**
 
-<img src="/assets/images/macadamia-nuts.png" width="50%" height="50%">
+<img src="assets/images/macadamia-nuts.png" width="50%" height="50%">
 
 ## Find:
 Design problem: Imagine you have a macadamia nut that you want to crack open by hand
@@ -25,7 +26,7 @@ Finally, I obtained the average load to crack macadamia nuts from a paper by Sch
 
 To calculate necessary dimensions of the nutcracker, it needed to fit the nut while still providing a long enough lever arm to crack it, according to the diagram below.
 
-![Nutcracker lever diagram:](/assets/images/lever-diagram.png)
+![Nutcracker lever diagram:](assets/images/lever-diagram.png)
 
 With L1 being 3 times the estimated macadamia nut radius, I estimated that the angle should allow a sufficient ease of use and allow for the lever arm to be a reasonable length.
 
@@ -34,11 +35,11 @@ L2 was the total lever arm length in the starting configuration, while L3 and L4
 The "teeth" were also important for the nutcracker in keeping the nut in place, and their height needed to be less than the smallest radius while the distance between them had to be greater than the largest radius. So 5mm was chosen as the height while 30mm was chosen as the width between them. (Note: I accidentally wrote 10mm for the teeth height on the diagram instead of 5mm)
 
 ## Calculations
-![Calculations:](/assets/images/calculations.png)
+![Calculations:](assets/images/calculations.png)
 
 I came to the total arm length of 501.46mm, with the nut centered at 79.06mm from the hinge, as shown in the diagram below.
 
-![Final diagram:](/assets/images/macadamia.png)
+![Final diagram:](assets/images/macadamia.png)
 
 ## Discussion
  This nutcracker is quite large, but as macadamia nuts require several times the load of other nuts, as seen in the paper by Schrauf et al., it is reasonable to expect a similar increase in dimensions from regular nutcrackers. It may be made more efficient by adding a more complex lever mechanism or using actuators, as suggested by the second part of the problem.
