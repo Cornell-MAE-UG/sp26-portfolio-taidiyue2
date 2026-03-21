@@ -5,7 +5,7 @@ description: ENGRD 2020 Statics Project
 technologies: n/a
 image: assets/images/macadamia-nuts.png
 ---
-# Macadamia Nut Cracker Project - ENGRD 2020 Statics
+# Macadamia Nut Cracker Project - ENGRD 2020 Statics a
 **Skills used: Equilibrium, Solving Mechanisms, Ergonomics and functional requirements, Research**
 
 <img src="assets/images/macadamia-nuts.png" width="50%" height="50%">
