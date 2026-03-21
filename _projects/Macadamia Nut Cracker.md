@@ -7,9 +7,9 @@ image: assets/images/macadamia-nuts.png
 ---
 # Macadamia Nut Cracker Project - ENGRD 2020 Statics
 **Skills used: Equilibrium, Solving Mechanisms, Ergonomics and functional requirements, Research**
-
+{% comment %}
 <img src="assets/images/macadamia-nuts.png" width="50%" height="50%">
-
+{% endcomment %}
 ## Find:
 Design problem: Imagine you have a macadamia nut that you want to crack open by hand
 using a simple lever nut cracker. Design a nut cracker with appropriate dimensions to successfully do this.
@@ -28,6 +28,7 @@ To calculate necessary dimensions of the nutcracker, it needed to fit the nut wh
 
 Nutcracker lever diagram:
 <img src="/workspaces/sp26-portfolio-taidiyue2/assets/images/lever-diagram.png">
+<img src="assets/images/macadamia-nuts.png" width="50%" height="50%">
 
 With L1 being 3 times the estimated macadamia nut radius, I estimated that the angle should allow a sufficient ease of use and allow for the lever arm to be a reasonable length.
 
