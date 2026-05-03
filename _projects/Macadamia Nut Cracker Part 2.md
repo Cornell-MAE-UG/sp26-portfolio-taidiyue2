@@ -3,6 +3,7 @@ layout: project
 title: Macadamia Nut Cracker Deflection
 description: ENGRD 2020 Statics Project
 technologies: n/a
+image: assets/images/macadamia-nuts.png
 ---
 # Macadamia Nut Cracker Project Part 2 - ENGRD 2020 Statics
 **Skills used: Beam Deflection Calculations, Inertia Calculations**
