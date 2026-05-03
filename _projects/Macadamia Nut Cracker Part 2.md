@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Macadamia Nut Cracker Part 2
+title: Macadamia Nut Cracker Deflection
 description: ENGRD 2020 Statics Project
 technologies: n/a
 ---
