@@ -37,7 +37,8 @@ I solved for y with initial conditions y(l) = 0 and y'(l) for AB = y'(l) for BC
 
 Although the graphs were hard to visualize I concluded that the maximum deflection would be on the end. 
 As such, I calculated the limiting value of EI using the second equation and obtained EI > 2.07N*m
-![Final EI calculation](/sp26-portfolio-taidiyue2/assets/images/deflectioncalculation.jpg)
+![Final EI calculation](/sp26-portfolio-taidiyue2/assets/images/Deflectioncalculation.jpg)
+
 This value was unrealistic and probably due to a mistake in my calculations. When I solved for the required radius of a steel cylinder with E = 200GPa, I got around 1mm as my answer, which is much too thin to be reasonable.
 
 ## Discussion
