@@ -25,18 +25,18 @@ First, I created a free body diagram of the nutcracker as a beam pinned at one e
 Then, I used separate FBD's to solve for moment equations and then deflections with the equation EIy'' = M
 
 Moment and deflection equation from A to B:
-![AB Moment Calculation](/sp26-portfolio-taidiyue2/assets/images/ABmoment.png)
+![AB Moment Calculation](/sp26-portfolio-taidiyue2/assets/images/ABmoment.jpg)
 I solved for y with initial conditions y(0)=0 and y(l) = 0
-![AB deflection eqn](/sp26-portfolio-taidiyue2/assets/images/ABeqn.png)
+![AB deflection eqn](/sp26-portfolio-taidiyue2/assets/images/ABeqn.jpg)
 
 Moment and deflection equation from B to C:
-![BC moment calc](/sp26-portfolio-taidiyue2/assets/images/BCmoment.png)
+![BC moment calc](/sp26-portfolio-taidiyue2/assets/images/BCmoment.jpg)
 I solved for y with initial conditions y(l) = 0 and y'(l) for AB = y'(l) for BC
-![BC deflection eqn](/sp26-portfolio-taidiyue2/assets/images/BCeqn.png)
+![BC deflection eqn](/sp26-portfolio-taidiyue2/assets/images/BCeqn.jpg)
 
 Although the graphs were hard to visualize I concluded that the maximum deflection would be on the end. 
 As such, I calculated the limiting value of EI using the second equation and obtained EI > 2.07N*m
-![Final EI calculation](/sp26-portfolio-taidiyue2/assets/images/deflectioncalculation.png)
+![Final EI calculation](/sp26-portfolio-taidiyue2/assets/images/deflectioncalculation.jpg)
 This value was unrealistic and probably due to a mistake in my calculations. When I solved for the required radius of a steel cylinder with E = 200GPa, I got around 1mm as my answer, which is much too thin to be reasonable.
 
 ## Discussion
