@@ -1,13 +1,30 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Macadamia Nut Cracker Part 2
+description: ENGRD 2020 Statics Project
+technologies: n/a
 ---
+# Macadamia Nut Cracker Project Part 2 - ENGRD 2020 Statics
+**Skills used: Beam Deflection Calculations, Inertia Calculations**
 
+<img src="/assets/images/macadamia-nuts.png" width="50%" height="50%">
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+## Find:
+Design problem: For the macadamia nut cracker I designed, calculate location of maximum deflection and then design the lever to deflect less than 2% of length for the applied load, selecting appropriate cross section and material.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+## Given:
+Inputs: Dimensions of nutcracker lever, force required to crack nut (489.43lb), required actuator force (77.16lb), deflection limit of 2% of length (10.03mm)
 
+## Approach
+First, I created a free body diagram of the nutcracker as a beam pinned at one end, assuming all forces applied at a perpendicular angle for max effect.
+
+fbd image
+
+## Calculations
+
+calculations image
+
+## Discussion
+ tbd
+
+---
