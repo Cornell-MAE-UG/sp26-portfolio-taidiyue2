@@ -43,7 +43,7 @@ This value was unrealistic and probably due to a mistake in my calculations. Whe
 
 ## Discussion
 
-My I aim to refine my calculations in the near future as I likely had conceptual and algebra errors in my equations.
+Although I'm reasonably confident in my approach, I made one or more errors in my equation setup or calculations that impacted my answer. One area I need to work on is keeping track of signs.
  
 
 ---
