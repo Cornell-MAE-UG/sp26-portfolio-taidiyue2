@@ -8,8 +8,6 @@ image: assets/images/macadamia-nuts.png
 # Macadamia Nut Cracker Project Part 2 - ENGRD 2020 Statics
 **Skills used: Beam Deflection Calculations, Inertia Calculations**
 
-<img src="/assets/images/macadamia-nuts.png" width="50%" height="50%">
-
 ## Find:
 Design problem: For the macadamia nut cracker I designed, calculate location of maximum deflection and then design the lever to deflect less than 2% of length for the applied load, selecting appropriate cross section and material.
 
