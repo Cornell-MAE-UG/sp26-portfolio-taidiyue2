@@ -19,8 +19,8 @@ Inputs: Dimensions of nutcracker lever (501.46mm length), force required to crac
 I first modeled the lever as a uniform horizontal beam, assuming all loads could be applied perpendicularly to the beam. Then, I found moment equations on A to B and B to C, which could be used to then visualize the deflection pattern. Afterwards, I symbolically calculated maximum deflection, which happens at the unfixed end of the lever.
 
 ## Calculations
-First, I created a free body diagram of the nutcracker as a beam pinned at one end, assuming all forces applied at a perpendicular angle for max effect.
-![FBD](/sp26-portfolio-taidiyue2/assets/images/leverfbd.png)
+First, I created a free body diagram of the nutcracker as a beam pinned at one end, assuming all forces applied at a perpendicular angle for max effect. test
+![FBD](/workspaces/sp26-portfolio-taidiyue2/assets/images/leverfbd.jpg)
 
 Then, I used separate FBD's to solve for moment equations and then deflections with the equation EIy'' = M
 
